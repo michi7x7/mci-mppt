@@ -52,22 +52,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=Mppt_PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=Mppt_Project.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +67,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document3]
 DocumentPath=Libs\TexasInstruments_INA220_INA226.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +83,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=Libs\IR Discrete MOSFET - Power.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +99,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=Libs\LMZ12001.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +115,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document6]
 DocumentPath=Libs\Maxim Interface MOSFET Driver.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,7 +131,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document7]
 DocumentPath=Libs\Maxim Amplifiers and Comparators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -163,7 +147,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document8]
 DocumentPath=Libs\Maxim Amplifiers and Comparators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +163,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document9]
 DocumentPath=Libs\Microcontroller tinyAVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +179,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document10]
 DocumentPath=Libs\Microcontroller tinyAVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -211,7 +195,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document11]
 DocumentPath=Datenblaetter\ATTiny26L.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +211,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document12]
 DocumentPath=Datenblaetter\Board_Users_Manual_XMC_2Go_Kit_with_XMC1100_R1.0.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +227,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document13]
 DocumentPath=Datenblaetter\Diode_V10P45S.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +243,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document14]
 DocumentPath=Datenblaetter\IMG_20140423_180010.jpg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +259,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document15]
 DocumentPath=Datenblaetter\Ind_HCF1007-100-R.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +275,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document16]
 DocumentPath=Datenblaetter\MAX668-MAX669.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +291,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document17]
 DocumentPath=Datenblaetter\MAX9611-MAX9612.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +307,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
+[Document18]
 DocumentPath=Datenblaetter\MAX15054.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +323,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document20]
+[Document19]
 DocumentPath=Datenblaetter\Mosfet_IRFR024N.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +339,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
+[Document20]
 DocumentPath=Datenblaetter\Mosfet-Treiber_MAX4426-MAX4428-57866.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +355,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document22]
+[Document21]
 DocumentPath=Datenblaetter\Stromsensor_MAX4080EVKIT.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -387,7 +371,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document23]
+[Document22]
 DocumentPath=Datenblaetter\TI_INA220.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +387,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document24]
+[Document23]
 DocumentPath=Datenblaetter\TI_INA226.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -419,7 +403,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document25]
+[Document24]
 DocumentPath=Libs\Capacitors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -435,7 +419,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document26]
+[Document25]
 DocumentPath=Libs\Components$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -451,7 +435,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document27]
+[Document26]
 DocumentPath=Libs\Connectors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -467,7 +451,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document28]
+[Document27]
 DocumentPath=Libs\Crystals$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -483,7 +467,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document29]
+[Document28]
 DocumentPath=Libs\Diodes$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +483,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document30]
+[Document29]
 DocumentPath=Libs\ICs$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +499,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document31]
+[Document30]
 DocumentPath=Libs\Inductors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +515,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document32]
+[Document31]
 DocumentPath=Libs\Miscellaneous$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +531,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document33]
+[Document32]
 DocumentPath=Libs\Resistors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -563,7 +547,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document34]
+[Document33]
 DocumentPath=Libs\Sources$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -579,7 +563,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document35]
+[Document34]
 DocumentPath=Libs\Transistors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -595,7 +579,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document36]
+[Document35]
 DocumentPath=Boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,8 +595,24 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document36]
+DocumentPath=Libs\Project_Components.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [Document37]
-DocumentPath=Boost.PcbDoc
+DocumentPath=Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -628,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=Libs\Project_Components.IntLib
+DocumentPath=CurrentSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -642,6 +642,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+
+[Document39]
+DocumentPath=Mppt_PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -1537,6 +1557,22 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=
+DocumentName0=Boost.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=
+DocumentName1=Mppt_Sheet1.SchDoc
+IsEnabled1=0
+SelectionScope1=All
+Order1=2
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
 
 [PrjClassGen]
 CompClassManualEnabled=0
