@@ -37,7 +37,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Mppt_Sheet1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -613,7 +613,7 @@ GenerateClassCluster=0
 
 [Document37]
 DocumentPath=Buck.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -629,7 +629,7 @@ GenerateClassCluster=0
 
 [Document38]
 DocumentPath=CurrentSensor.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -693,7 +693,7 @@ GenerateClassCluster=0
 
 [Document42]
 DocumentPath=Balancer.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1592,7 +1592,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=1
+SortOrder=3
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
