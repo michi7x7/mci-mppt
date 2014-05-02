@@ -1,3 +1,4 @@
+%Berechnung der externen Schaltung fuer LMZ12001
 Vin = 12.6;
 Vout = 5;
 
