@@ -2,6 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
+LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
@@ -28,12 +29,6 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
-LogFolderPath=
-
-[Preferences]
-PrefsVaultGUID=
-PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Mppt_Sheet1.SchDoc
@@ -244,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=Datenblaetter\Ind_HCF1007-100-R.pdf
+DocumentPath=Datenblaetter\IMG_20140423_180010.jpg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document15]
-DocumentPath=Datenblaetter\MAX668-MAX669.pdf
+DocumentPath=Datenblaetter\Ind_HCF1007-100-R.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=Datenblaetter\MAX9611-MAX9612.pdf
+DocumentPath=Datenblaetter\MAX668-MAX669.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document17]
-DocumentPath=Datenblaetter\MAX15054.pdf
+DocumentPath=Datenblaetter\MAX9611-MAX9612.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -308,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document18]
-DocumentPath=Datenblaetter\Mosfet_IRFR024N.pdf
+DocumentPath=Datenblaetter\MAX15054.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document19]
-DocumentPath=Datenblaetter\Mosfet-Treiber_MAX4426-MAX4428-57866.pdf
+DocumentPath=Datenblaetter\Mosfet_IRFR024N.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document20]
-DocumentPath=Datenblaetter\Stromsensor_MAX4080EVKIT.pdf
+DocumentPath=Datenblaetter\Mosfet-Treiber_MAX4426-MAX4428-57866.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +351,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document21]
-DocumentPath=Datenblaetter\TI_INA220.pdf
+DocumentPath=Datenblaetter\Stromsensor_MAX4080EVKIT.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -372,7 +367,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document22]
-DocumentPath=Datenblaetter\TI_INA226.pdf
+DocumentPath=Datenblaetter\TI_INA220.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -388,7 +383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document23]
-DocumentPath=Libs\Capacitors$.IntLib
+DocumentPath=Datenblaetter\TI_INA226.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -404,7 +399,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document24]
-DocumentPath=Libs\Components$.IntLib
+DocumentPath=Libs\Capacitors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -420,7 +415,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document25]
-DocumentPath=Libs\Connectors$.IntLib
+DocumentPath=Libs\Components$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -436,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document26]
-DocumentPath=Libs\Crystals$.IntLib
+DocumentPath=Libs\Connectors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -452,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document27]
-DocumentPath=Libs\Diodes$.IntLib
+DocumentPath=Libs\Crystals$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -468,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document28]
-DocumentPath=Libs\ICs$.IntLib
+DocumentPath=Libs\Diodes$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -484,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document29]
-DocumentPath=Libs\Inductors$.IntLib
+DocumentPath=Libs\ICs$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -500,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document30]
-DocumentPath=Libs\Miscellaneous$.IntLib
+DocumentPath=Libs\Inductors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -516,7 +511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document31]
-DocumentPath=Libs\Resistors$.IntLib
+DocumentPath=Libs\Miscellaneous$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -532,7 +527,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document32]
-DocumentPath=Libs\Sources$.IntLib
+DocumentPath=Libs\Resistors$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -548,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document33]
-DocumentPath=Libs\Transistors$.IntLib
+DocumentPath=Libs\Sources$.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -564,6 +559,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document34]
+DocumentPath=Libs\Transistors$.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document35]
 DocumentPath=Boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=11
@@ -579,7 +590,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document35]
+[Document36]
 DocumentPath=Libs\Project_Components.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -595,7 +606,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document36]
+[Document37]
 DocumentPath=Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=21
@@ -611,7 +622,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document37]
+[Document38]
 DocumentPath=CurrentSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=31
@@ -627,7 +638,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document38]
+[Document39]
 DocumentPath=Mppt_PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +654,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document39]
+[Document40]
 DocumentPath=Datenblaetter\lmz12001.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -659,7 +670,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document40]
+[Document41]
 DocumentPath=lmz12001.m
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,7 +686,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document41]
+[Document42]
 DocumentPath=Balancer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=41
@@ -691,7 +702,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document42]
+[Document43]
 DocumentPath=Mppt_PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -707,24 +718,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
-DocumentPath=Mppt_PCB_seb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
 [Document44]
-DocumentPath=uC Pins.xlsx
+DocumentPath=Libs\Atmel Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -755,6 +750,18 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Output\Design Rule Check - Mppt_PCB2.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Mppt_PCB1.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Mppt_Project\Net Status - Mppt_PCB2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -768,7 +775,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -899,19 +906,19 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
+OutputType2=SIMetrix_Sim
 OutputName2=SIMetrix
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMPLISSimulation
+OutputType3=SIMPLIS_Sim
 OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
@@ -920,7 +927,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -1034,7 +1041,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1056,7 +1063,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1108,17 +1115,11 @@ OutputName9=Test Point Report
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Board Stack Report
-OutputName10=Report Board Stack
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1155,7 +1156,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1335,7 +1336,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1360,37 +1361,22 @@ OutputName4=Footprint Comparison Report
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=Configuration compliance
-OutputName5=Environment configuration compliance check
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=hp LaserJet 1320 PCL 5
+TargetPrinter=Canon MP620 series Printer WS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=AutoCAD dwg/dxf PCB
-OutputName1=AutoCAD dwg/dxf File PCB
+OutputType1=ExportIDF
+OutputName1=Export IDF
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=ExportIDF
-OutputName2=Export IDF
+OutputType2=ExportSTEP
+OutputName2=Export STEP
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ExportSTEP
-OutputName3=Export STEP
-OutputDocumentPath3=
-OutputVariantName3=[No Variations]
-OutputDefault3=0
-OutputType4=AutoCAD dwg/dxf Schematic
-OutputName4=AutoCAD dwg/dxf File Schematic
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
 
 [Modification Levels]
 Type1=1
@@ -1618,7 +1604,6 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
