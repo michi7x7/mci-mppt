@@ -592,22 +592,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document36]
-DocumentPath=Libs\Project_Components.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document37]
 DocumentPath=Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=21
@@ -623,7 +607,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document38]
+[Document37]
 DocumentPath=CurrentSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=31
@@ -639,7 +623,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document39]
+[Document38]
 DocumentPath=Mppt_PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -655,7 +639,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document40]
+[Document39]
 DocumentPath=Datenblaetter\lmz12001.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,7 +655,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document41]
+[Document40]
 DocumentPath=lmz12001.m
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -687,7 +671,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document42]
+[Document41]
 DocumentPath=Balancer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=41
@@ -703,7 +687,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
+[Document42]
 DocumentPath=Mppt_PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,8 +703,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document44]
-DocumentPath=F:\libs\Atmel\Atmel Footprints.PcbLib
+[Document43]
+DocumentPath=Mppt_PCB_seb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -735,8 +719,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document45]
-DocumentPath=F:\libs\Atmel\Atmel Microcontroller 8-Bit tinyAVR.IntLib
+[Document44]
+DocumentPath=Libs\Project_Components.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -752,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Mppt_PCB1.PcbDoc.htm
+DocumentPath=Mppt_PCB_seb.PcbDoc.htm
 DItemRevisionGUID=
 
 [Configuration1]
