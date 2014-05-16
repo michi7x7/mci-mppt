@@ -644,22 +644,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document39]
-DocumentPath=Mppt_PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document40]
 DocumentPath=Datenblaetter\lmz12001.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,7 +659,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document41]
+[Document40]
 DocumentPath=lmz12001.m
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -691,7 +675,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document42]
+[Document41]
 DocumentPath=Balancer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=41
@@ -707,8 +691,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document43]
-DocumentPath=Mppt_PCB2.PcbDoc
+[Document42]
+DocumentPath=Mppt_PCB_Final.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -723,7 +707,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document44]
+[Document43]
 DocumentPath=Libs\Atmel Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -739,7 +723,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document45]
+[Document44]
 DocumentPath=Libs\Atmel Microcontroller 8-Bit tinyAVR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -755,24 +739,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document46]
+[Document45]
 DocumentPath=MPPT_Global.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document47]
-DocumentPath=Mppt_PCB_seb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
